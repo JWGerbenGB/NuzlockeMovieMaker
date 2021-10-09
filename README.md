@@ -1,5 +1,5 @@
 # NuzlockeMovieMaker
-A tool to turn your Nuzlocke into a video format to make immortalize the run you wish to never forget.
+A tool to turn your Nuzlocke into a video format to make immortalize the run you wish to never forget.  
 Also includes a Pokedex and a tool to turn your text into unown letters, just for fun.
 
 Download Link (V1.1.0):  
